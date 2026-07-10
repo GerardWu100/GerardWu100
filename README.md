@@ -2,7 +2,11 @@
 
 <p align="center">
   <a href="https://gerardwu.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=334155" alt="Visit GerardWu.com"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-E2E8F0?style=for-the-badge&logo=googlechrome&logoColor=0F172A&labelColor=CBD5E1"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=334155"/>
+      <img src="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=334155" alt="Visit GerardWu.com"/>
+    </picture>
   </a>
 </p>
 
