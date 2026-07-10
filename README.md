@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gerardwu.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=334155" alt="Visit GerardWu.com"/>
   </a>
 </p>
 
