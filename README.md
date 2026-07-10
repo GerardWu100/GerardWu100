@@ -36,7 +36,9 @@ You can find my projects, research notes, and full background at **[GerardWu.com
 I am open to **roles, coffee chats, research discussions, and project feedback**, and I try
 to reply to every message. Happy to share my resume on request.
 
-[![LinkedIn](https://img.shields.io/badge/in-Gerard_Wu-0A66C2?style=flat-square&labelColor=0A66C2)](https://www.linkedin.com/in/gerard-wu-281484311/)
+[![LinkedIn](https://img.shields.io/badge/-Gerard_Wu-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjU4IDBjMCAyOS43LTI0LjEgNTQuMy01My43OSA1NC4zek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/gerard-wu-281484311/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@gerardwu.com)
 [![X](https://img.shields.io/badge/-GerardWu100-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GerardWu100)
 [![Instagram](https://img.shields.io/badge/-gerardwu100-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gerardwu100/)
+
+<!-- LinkedIn icon: Font Awesome Free 6.7.2, licensed under CC BY 4.0. -->
