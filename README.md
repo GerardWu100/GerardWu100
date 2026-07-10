@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://gerardwu.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-E2E8F0?style=for-the-badge&logo=googlechrome&logoColor=0F172A&labelColor=CBD5E1"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=334155"/>
-      <img src="https://img.shields.io/badge/Visit%20My%20Website-GerardWu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=334155" alt="Visit GerardWu.com"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-gerardwu.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-gerardwu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B"/>
+      <img src="https://img.shields.io/badge/Website-gerardwu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B" alt="Visit gerardwu.com"/>
     </picture>
   </a>
 </p>
