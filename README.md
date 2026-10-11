@@ -8,6 +8,10 @@
       <img src="https://img.shields.io/badge/Website-gerardwu.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B" alt="Visit gerardwu.com"/>
     </picture>
   </a>
+  <br/>
+  <a href="https://gerardwu100.github.io/upptime/">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGerardWu100%2Fupptime%2FHEAD%2Fapi%2Fgerardwu-com%2Fuptime.json&style=flat-square&label=uptime" alt="gerardwu.com uptime status page"/>
+  </a>
 </p>
 
 <p align="center">
