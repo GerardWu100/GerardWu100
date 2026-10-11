@@ -10,7 +10,11 @@
   </a>
   <br/>
   <a href="https://gerardwu100.github.io/upptime/">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGerardWu100%2Fupptime%2FHEAD%2Fapi%2Fgerardwu-com%2Fuptime.json&style=flat-square&label=uptime" alt="gerardwu.com uptime status page"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGerardWu100%2Fupptime%2FHEAD%2Fapi%2Fgerardwu-com%2Fuptime.json&style=for-the-badge&label=Uptime&logo=statuspage&logoColor=white&labelColor=0F172A"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGerardWu100%2Fupptime%2FHEAD%2Fapi%2Fgerardwu-com%2Fuptime.json&style=for-the-badge&label=Uptime&logo=statuspage&logoColor=white&labelColor=1E293B"/>
+      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGerardWu100%2Fupptime%2FHEAD%2Fapi%2Fgerardwu-com%2Fuptime.json&style=for-the-badge&label=Uptime&logo=statuspage&logoColor=white&labelColor=1E293B" alt="gerardwu.com uptime status page"/>
+    </picture>
   </a>
 </p>
 
